@@ -16,7 +16,9 @@
     }
   },
   "theme": "prism",
-  "background": "gradient",
+  "sidebar": {
+    "items": "card"
+  },
   "topbarLinks": [
     {
       "name": "Support",
